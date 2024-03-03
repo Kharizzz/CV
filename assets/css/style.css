@@ -241,6 +241,10 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
+  background: "../assets/img/hero7.jpg"; 
+  background-size: 100%; 
+  background-repeat: no-repeat; 
+  background-position: right
 }
 
 #hero:before {
