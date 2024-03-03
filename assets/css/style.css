@@ -107,7 +107,7 @@ h6 {
 }
 
 #header .profile .social-links a {
-  font-size: 18px;
+  font-size: 150%;
   display: inline-block;
   background: #212431;
   color: #fff;
@@ -116,8 +116,8 @@ h6 {
   margin-right: 4px;
   border-radius: 50%;
   text-align: center;
-  width: 36px;
-  height: 36px;
+  width: 20%;
+  height: 50%;
   transition: 0.3s;
 }
 
@@ -180,12 +180,12 @@ h6 {
   padding: 12px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
-  font-size: 15px;
+  font-size: 100%;
 }
 
 .nav-menu a i,
 .nav-menu a:focus i {
-  font-size: 24px;
+  font-size: 180%;
   padding-right: 8px;
   color: #6f7180;
 }
